@@ -1,0 +1,16 @@
+Option 1:
+Intervention plan:
+
+Schedule a one-on-one meeting with each of the 5 students who are 2 weeks behind, During the meetings, I would discuss their progress, identify the specific issues that are causing them to fall behind, and create a personalised action plan to help them catch up.
+
+Secondlyt, I would monitor the progress of the 10 at-risk students closelwy, offering them extra hekp and support as needed. If a student does fall behind, I would immediately schedule a one-on-one meeting to develop an action plan to get them back on track. 
+
+Lastly I would provide additional resources and opportunities for the 5 students who are ahead, such as advanced projects or mentoship opportunities, to keep them challeneged and engaged
+
+Option 2:
+
+When a student is having trouble with JOptionPane.ShowDialog() and input not storing in string variable leading to infinite loop, as a mentor I would follow the following steps:
+
+Understand the student's problem, ask him what he is trying to accomplish and what is the expected outcome. I would secondly ask the studentto show me the specific code that is causing the issue and help them to understand the logic behind it.
+
+Thirdly I would inspect the code, check for any syntax errors or logical mistakes that could be causing the issue. Lastly after analyzing the code, I would provide suggestions to the student on how to fix the code, I could also simply provide sample code or link to relevant documentation.
