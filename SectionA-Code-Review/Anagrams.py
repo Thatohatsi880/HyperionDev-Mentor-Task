@@ -19,3 +19,6 @@ class Solution: #Defining the class Solution
     ob1 = Solution()#creating instance of class solution
 
     print(ob1.groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))#calling the function and passing the input list as parameter
+
+   #In the for loop, you are trying to sort the letters of the string i but you are not passing the string to the sorted() function, this will cause the code to throw an error
+   #Also, you are calling result[x],append(i) this will append the current word i to the values of the key x, but the output is expected in a different format
