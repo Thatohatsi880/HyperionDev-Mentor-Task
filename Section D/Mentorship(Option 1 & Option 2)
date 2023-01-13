@@ -11,6 +11,6 @@ Option 2:
 
 When a student is having trouble with JOptionPane.ShowDialog() and input not storing in string variable leading to infinite loop, as a mentor I would follow the following steps:
 
-Understand the student's problem, ask him what he is trying to accomplish and what is the expected outcome. I would secondly ask the studentto show me the specific code that is causing the issue and help them to understand the logic behind it.
+Understand the student's problem, ask them what they are  trying to accomplish and what is the expected outcome. I would secondly ask the student to show me the specific code that is causing the issue and help them to understand the logic behind it.
 
 Thirdly I would inspect the code, check for any syntax errors or logical mistakes that could be causing the issue. Lastly after analyzing the code, I would provide suggestions to the student on how to fix the code, I could also simply provide sample code or link to relevant documentation.
