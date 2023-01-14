@@ -20,3 +20,5 @@ sayNumber(1043283) ----> One Million, Forty Three Thousand, Two Hundred Eighty T
 ### Section D:
 #### Option 1: Mentorship
      Option 2: Java Support Task
+     On this one I would also encourage the student to keep the code simple, readable and well-commented.
+     Lastly, I would ask the student to test the fixed code and provide feedback.
