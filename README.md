@@ -10,6 +10,7 @@
 ### Section C:
 -Output of the above code:
 ![Screenshot_20230114_075628](https://user-images.githubusercontent.com/65616521/212458229-754e24ae-361a-41ef-a561-8ce8c937518f.jpg)
+
 sayNumber(0) ----> Zero.
 sayNumber(11) ----> Eleven.
 
