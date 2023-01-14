@@ -8,7 +8,8 @@
 ####- This program or project rather is one of my best favorite ones which shows just a formulation structure of my nasa-app, which of course I am still on it
 
 ### Section C:
-####![Screenshot_20230114_074359](https://user-images.githubusercontent.com/65616521/212457995-5f059e4a-eba4-4df8-95e6-ffb47da8b3bb.jpg)
+-Output of the above code:
+![Screenshot_20230114_075628](https://user-images.githubusercontent.com/65616521/212458229-754e24ae-361a-41ef-a561-8ce8c937518f.jpg)
 sayNumber(0) ----> Zero.
 sayNumber(11) ----> Eleven.
 
